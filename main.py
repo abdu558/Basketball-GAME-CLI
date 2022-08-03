@@ -1,5 +1,3 @@
-#https://stackoverflow.com/questions/14409661/dice-generator-using-class-in-python
-#Make the option to re roll specific dice
 import random,os,time,requests
 from nba_api.stats.static import players
 from inputimeout import inputimeout, TimeoutOccurred
